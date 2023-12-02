@@ -25,7 +25,7 @@ module.exports = {
 change db name according to you.
 
 
-HOW O RUN ->
+HOW TO RUN ->
 
 Run the command npm install to install the required dependencies.
 
